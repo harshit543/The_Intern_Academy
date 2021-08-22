@@ -1,7 +1,7 @@
 # The_Intern_Academy
 EDA Titanic (Task 1)
 Intern-Academy Task 1:
-By Riya Dhama
+By Harshit Sharma
 Survival Prediction - Titanic Disaster
 Context
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
